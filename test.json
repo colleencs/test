@@ -1,0 +1,23 @@
+{
+  "keywords": [
+    {
+      "id": "act",
+      "partOfSpeech": "",
+      "term": {
+        "term": "act",
+        "audio": "keywords.act",
+        "transcript": "act"
+      },
+      "definition": {
+        "definition": "a major section in a play, like a chapter in a book",
+        "audio": "keywords.a_major_section_play_like_chapter",
+        "transcript": "a major section in a play, like a chapter in a book"
+      },
+      "termWithDefinition": {
+        "audio": "keywords.act_major_section_play_like_chapter",
+        "transcript": "act - a major section in a play, like a chapter in a book"
+      },
+      "image": "assets/content/rc/_common/graphic/object/a/b_act_pop.png"
+    }
+    ]
+    }
